@@ -4,4 +4,4 @@ Bu, https://www.w3schools.com adresindeki Git tutoial'ı için örnek bir depodu
 
 Bu depo eğitimde adım adım oluşturulmuştur.
 
-zort
+zortladım111
